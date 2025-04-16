@@ -10,5 +10,4 @@ DC
 az vm create --resource-group ConceptRG --name ConceptDC --image Win2022Datacenter --vnet-name ConceptVNET --subnet default --admin-username acirpean
 VM1
 az vm create --resource-group ConceptRG --name ConceptVM1 --image Win2022Datacenter --vnet-name ConceptVNET --subnet default --admin-username acirpean
-VM2
-az vm create --resource-group ConceptRG --name ConceptVM2 --image Win2022Datacenter --vnet-name ConceptVNET --subnet default --admin-username acirpean
+
